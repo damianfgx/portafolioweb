@@ -17,6 +17,12 @@ body{
   transition: background-color 0.5s, padding 0.5s ease-in-out 0.1s;
 }
 
+#aboutme{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
 .nav.scroll {
   background-color: #11111195;
   backdrop-filter: blur(2px);
